@@ -2,7 +2,7 @@
 
 > A visual CSS Grid builder — lay out columns, rows, and named areas, then copy the generated CSS.
 
-**[Live demo](https://su-gridforge.vercel.app)**
+**[Live demo](https://gridforge-mlx.vercel.app)**
 
 GridForge makes CSS Grid tangible. Configure columns and rows with fractional (`fr`) and other units, set the gap, and paint named grid areas directly on a live preview instead of guessing at `grid-template` syntax. As you build, it generates the corresponding CSS — including `grid-template-areas` — which you can copy straight into your stylesheet.
 
@@ -30,4 +30,4 @@ No environment variables are required.
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
